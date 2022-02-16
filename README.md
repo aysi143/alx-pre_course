@@ -1,4 +1,4 @@
-# ALX engineering | Full stack | DevOPS | Machine Learning
+# ALX engineering <|>  Full stack | DevOPS | Machine Learning
 
 # About
 ****************************************************************************************************
